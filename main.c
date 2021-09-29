@@ -3,7 +3,8 @@
 int main(void)
 {   
 
-for (int i = 1; i < 11; i++)
+for (int i = 1; i < 16; i++)
+
 {
     printf("%d ", i);
 }
